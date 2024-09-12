@@ -1,5 +1,7 @@
 **Power BI Sales Dashboard**
 
+![Screenshot (58)](https://github.com/user-attachments/assets/db221151-8643-4f43-a970-7025681c8c27)
+
 
 **Overview**
 
